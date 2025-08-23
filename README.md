@@ -4,7 +4,7 @@
 
 ## 📋 Description du projet
 
-**Booki** est une maquette statique d'un site de réservation d'hébergements et d'activités. Ce projet d'intégration HTML/CSS a été développé dans le cadre de la formation **Développeur d'application JavaScript React** d'OpenClassrooms.
+**Booki** est une l'intégration d'une statique d'un site de réservation d'hébergements et d'activités. Ce projet d'intégration HTML/CSS a été développé dans le cadre de la formation **Développeur d'application JavaScript React** d'OpenClassrooms.
 
 ### 🎯 Objectifs
 - Intégrer une maquette statique responsive à partir de designs Figma
@@ -187,7 +187,7 @@ cd Booki---OpenClassRoom---FOUGEROUSE-Elodie
 
 ### 🔗 Liens utiles
 - [Repository GitHub](https://github.com/Moonyelit/Booki---OpenClassRoom---FOUGEROUSE-Elodie)
-- [Démo en ligne](#) *(à ajouter si déployé)*
+- [Démo en ligne](https://moonyelit.github.io/Booki---OpenClassRoom---FOUGEROUSE-Elodie/)
 
 ## 📝 Contexte pédagogique
 
