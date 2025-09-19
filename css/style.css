@@ -754,7 +754,7 @@ main {
 
     /************ Activités ****************/
     .activites {
-        padding: 20px;
+        padding: 30px;
     }
 
     .activites-cards {
@@ -784,7 +784,7 @@ main {
     }
 
     .footer-column {
-        padding: 20px 20px 20px 5px;
+        padding: 20px 20px 20px 10px;
     }
 
 
