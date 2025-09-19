@@ -516,12 +516,10 @@ main {
 /**************************************************************
 *************************** Footer *****************************
 ***************************************************************/
-footer {
-    background-color: var(--main-bg-color);
-}
-
 .footer-content {
     display: flex;
+    background-color: var(--main-bg-color);
+
 }
 
 .footer-column {
@@ -565,7 +563,7 @@ footer {
 /*************************************************************/
 
 /****************TABLETTE****************/
-@media (max-width: 1023px) {
+@media (max-width: 1024px) {
 
     /* Filtres */
     .filter-button span {
@@ -783,6 +781,10 @@ footer {
     .footer-content {
         padding: 20px;
         flex-direction: column;
+    }
+
+    .footer-column {
+        padding: 20px 20px 20px 5px;
     }
 
 
