@@ -41,6 +41,15 @@ a {
     --grey-color: #d9d9d9;
 }
 
+/* Corrections pour la validation W3C CSS - Font Awesome */
+.fa, .fa-brands, .fa-classic, .fa-regular, .fa-sharp, .fa-solid, .fab, .far, .fas {
+    text-rendering: optimizeLegibility;
+}
+
+.fa-rotate-by {
+    transform: rotate(var(--fa-rotate-angle, 0deg));
+}
+
 .fa-solid {
     color: var(--main-color);
 }
